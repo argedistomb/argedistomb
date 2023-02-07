@@ -1,4 +1,4 @@
 # Tom BLANC
 
 ## About Me 
-Check my [Personnal Account](https://github.com/tomblancdev)
+Check my [Personnal Github](https://github.com/tomblancdev)
